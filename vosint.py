@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 VOSINT - Termux OSINT Toolkit
-Author: YourName
-Version: 1.0
+Author: Vinzaa
+Version: 1.1
 """
 
 import argparse
